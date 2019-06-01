@@ -62,7 +62,7 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year Ph.D. student in Management Science (Information Systems) at the Naveen Jindal School of Management,  The University of Texas at Dallas.
+I am a fourth-year Ph.D. student in Management Science at the Naveen Jindal School of Management,  The University of Texas at Dallas.
 
 Prior to joining the Ph.D. program, I was a Research Associate at the Indian School of Business. I obtained my Masters in Mathematics from Indian Institute of Technology, Kanpur, India.
 
