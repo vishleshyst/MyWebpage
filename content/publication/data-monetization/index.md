@@ -6,7 +6,7 @@ authors:
 - Ganesh Janakiraman
 - Vijay Mookerjee
 
-date: "2019"
+date: "2019-06-01"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*The 20th ACM conference on Economics and Computation (EC'19)* (forthcoming)"
-publication_short: "EC'19"
+publication_short: ""
 
 abstract: "The wide variety of pricing policies used in practice by data-sellers suggests that there are significant challenges in pricing datasets. The selling of a dataset – arranged in a row-column format, where rows represent records and columns represent attributes of the records – is more nuanced than that of information goods like telephone minutes and bandwidth, in the sense that, for a buyer, it is not only the amount of data that matters but also the type of the data. We develop a utility framework that is appropriate for data-buyers and the corresponding pricing of the data by the data-seller.
 
@@ -36,6 +36,8 @@ featured: false
 links:
  - name: "SSRN"
    url: "https://ssrn.com/abstract=3333296"
+ - name: "Blog"
+   url: "https://blog.narrative.io/pricing-policies-for-data-monetization"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -44,6 +46,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
