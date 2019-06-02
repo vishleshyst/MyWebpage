@@ -15,7 +15,7 @@ subtitle = ""
   date_start = "2018-08-20"
   date_end = "2018-12-17"
   description = """
-  Students: 60 (undergraduate) | ![Evaluation: 4.8/5.0](/static/EvalF18.pdf)
+  Students: 60 (undergraduate) | [Evaluation: 4.80/5.00](/evaluations/EvalF18.pdf)    
  
 """
 +++
