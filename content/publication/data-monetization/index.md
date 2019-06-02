@@ -29,8 +29,10 @@ A buyer interested in purchasing a dataset has private valuations in two aspects
 # Summary. An optional shortened abstract.
 summary: We analyze pricing policies to sell datasets that can be arranged in a row-column format. 
 
-#tags:
-#- Source Themes
+tags:
+- Data Monetization
+- Multi-Dimensional Mechanism Design
+- Price-Quantity Schedules
 featured: false
 
 links:

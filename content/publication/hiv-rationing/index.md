@@ -26,8 +26,11 @@ abstract: "HIV clinics in sub-Saharan Africa face an important challenge of allo
 # Summary. An optional shortened abstract.
 summary: We derive near-optimal easy-to-implement rationing policies for HIV antiretroviral drugs under supply certainty. 
 
-#tags:
-#- Source Themes
+tags:
+- Inventory Rationing
+- Supply Uncertainty
+- Global HIV Pandemic
+- Antiretroviral Treatment
 featured: false
 
 links:

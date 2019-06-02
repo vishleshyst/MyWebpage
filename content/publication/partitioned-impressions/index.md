@@ -27,8 +27,11 @@ abstract: "In the mobile advertising ecosystem, the role of ad-exchanges to matc
 # Summary. An optional shortened abstract.
 summary: We obtain optimal mechanisms for ad-exchanges in which multiple ads can be displayed sequentially over the lifetime of an impression.
 
-#tags:
-#- Source Themes
+tags:
+- Mobile Advertising
+- Ad-Exchanges
+- Optimal Mechanisms
+- Mutually-Beneficial Mechanisms
 featured: false
 
 links:
