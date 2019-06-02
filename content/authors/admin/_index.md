@@ -18,19 +18,18 @@ organizations:
   url: "https://utdallas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Economics of Information Systems, Data Monetization, and Design of Emerging Marketplaces
+#bio: My research interests include Economics of Information Systems      and Operational Issues in Tech-enabled Markets
 
 interests:
 - Economics of Information Systems
-- Data Monetization
-- Design of Emerging Marketplaces
+- Operational Issues in Technology Markets
 
 education:
   courses:
   - course: Ph.D. in Management Science
     institution: The University of Texas at Dallas
     year: 2020 (expected)
-  - course: M.Sc. in Mathematics and Scientific Computing
+  - course: M.Sc. (Intg.) in Mathematics and Scientific Computing
     institution: Indian Institute of Technology, Kanpur
     year: 2012
 
@@ -65,4 +64,5 @@ user_groups:
 I am a fourth-year Ph.D. student in Management Science at the Naveen Jindal School of Management,  The University of Texas at Dallas.
 
 Prior to joining the Ph.D. program, I was a Research Associate at the Indian School of Business. I obtained my Masters in Mathematics from Indian Institute of Technology, Kanpur, India.
+
 
