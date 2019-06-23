@@ -19,7 +19,7 @@ doi: "10.1145/3328526.3329587"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The 20th ACM Conference on Economics and Computation (EC'19)* (forthcoming)"
+publication: "*The 20th ACM Conference on Economics and Computation (EC'19)*"
 publication_short: ""
 
 abstract: "The wide variety of pricing policies used in practice by data-sellers suggests that there are significant challenges in pricing datasets. The selling of a dataset – arranged in a row-column format, where rows represent records and columns represent attributes of the records – is more nuanced than that of information goods like telephone minutes and bandwidth, in the sense that, for a buyer, it is not only the amount of data that matters but also the type of the data. We develop a utility framework that is appropriate for data-buyers and the corresponding pricing of the data by the data-seller.
