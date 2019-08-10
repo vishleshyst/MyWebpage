@@ -21,8 +21,9 @@ organizations:
 #bio: My research interests include Economics of Information Systems      and Operational Issues in Tech-enabled Markets
 
 interests:
-- Economics of Information Systems
-- Operational Issues in Technology Markets
+- Data Markets
+- Real-Time Advertising Ecosystem
+- Economics of Artificial Intelligence
 
 education:
   courses:
@@ -61,7 +62,7 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year Ph.D. student in Management Science at the Naveen Jindal School of Management,  The University of Texas at Dallas.
+I am a fifth-year Ph.D. student in Management Science at the Naveen Jindal School of Management,  The University of Texas at Dallas. I am currently on the academic job market. 
 
 Prior to joining the Ph.D. program, I was a Research Associate at the Indian School of Business. I obtained my Masters in Mathematics from Indian Institute of Technology, Kanpur, India.
 
