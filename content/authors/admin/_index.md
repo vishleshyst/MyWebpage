@@ -20,19 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include Economics of Information Systems      and Operational Issues in Tech-enabled Markets
 
-interests:
-- Data Markets
-- Real-Time Advertising Ecosystem
-- Economics of Artificial Intelligence
+#interests:
+#- Data Markets
+#- Real-Time Advertising Ecosystem
+#- Economics of Artificial Intelligence
 
-education:
-  courses:
-  - course: Ph.D. in Management Science
-    institution: The University of Texas at Dallas
-    year: 2020 (expected)
-  - course: M.Sc. (Intg.) in Mathematics and Scientific Computing
-    institution: Indian Institute of Technology, Kanpur
-    year: 2012
+#education:
+#  courses:
+#  - course: Ph.D. in Management Science
+#    institution: The University of Texas at Dallas
+#    year: 2020 (expected)
+#  - course: M.Sc. (Intg.) in Mathematics and Scientific Computing
+#    institution: Indian Institute of Technology, Kanpur
+#    year: 2012
 
 
 # Social/Academic Networking
