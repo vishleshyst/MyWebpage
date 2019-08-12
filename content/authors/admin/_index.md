@@ -48,9 +48,9 @@ social:
   link: https://scholar.google.co.uk/citations?user=6mWQXQEAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,6 +64,6 @@ user_groups:
 
 I am a fifth-year Ph.D. student in Management Science at the Naveen Jindal School of Management,  The University of Texas at Dallas. Prior to joining the Ph.D. program, I was a Research Associate at the Indian School of Business. I obtained my Masters in Mathematics from Indian Institute of Technology, Kanpur, India.
 
-I am on the 2019-20 academic job market. 
+I am on the 2019-20 academic job market. A copy of my CV can be found [here](cv.pdf). 
 
 
