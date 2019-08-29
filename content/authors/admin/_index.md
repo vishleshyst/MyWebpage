@@ -62,7 +62,9 @@ user_groups:
 - Visitors
 ---
 
-I am a fifth-year Ph.D. student in Management Science at the Naveen Jindal School of Management,  The University of Texas at Dallas. Prior to joining the Ph.D. program, I was a Research Associate at the Indian School of Business. I obtained my Masters in Mathematics from Indian Institute of Technology, Kanpur, India.
+I am a fifth-year Ph.D. student in Management Science at the Naveen Jindal School of Management,  The University of Texas at Dallas.
+
+Prior to joining the Ph.D. program, I was a Research Associate at the Indian School of Business. I obtained my Masters in Mathematics from Indian Institute of Technology, Kanpur, India.
 
 I am on the 2019-20 academic job market. A copy of my CV can be found [here](cv.pdf). 
 
