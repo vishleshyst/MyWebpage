@@ -38,7 +38,7 @@ links:
    url: "https://ssrn.com/abstract=3333296"
  - name: "Blog"
    url: "https://blog.narrative.io/pricing-policies-for-data-monetization"
-url_pdf: ''
+url_pdf: 'DataMonetization.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

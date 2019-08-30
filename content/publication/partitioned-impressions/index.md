@@ -37,7 +37,7 @@ featured: false
 links:
  - name: "SSRN"
    url: "https://ssrn.com/abstract=3064299"
-url_pdf: ''
+url_pdf: 'PartitionedImpressions.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

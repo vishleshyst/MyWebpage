@@ -36,7 +36,7 @@ featured: false
 links:
  - name: "SSRN"
    url: "https://ssrn.com/abstract=3087685"
-url_pdf: ''
+url_pdf: 'HIVRationing.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
