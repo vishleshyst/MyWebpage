@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Management Science
     institution: The University of Texas at Dallas
-    year: 2020 (exp.)
+    year: 2020
   - course: M.Sc. (Intg.) in Mathematics and Scientific Computing
     institution: Indian Institute of Technology, Kanpur
     year: 2012
