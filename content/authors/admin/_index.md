@@ -29,13 +29,13 @@ education:
   courses:
   - course: Ph.D. in Management Science
     institution: The University of Texas at Dallas
-    year: '15 - '20 (exp.)
+    year: 2015-20
   - course: Research Associate
     institution: Indian School of Business
-    year: '12 - '15
+    year: 2012-15
   - course: M.Sc. (Intg.) in Mathematics and Scientific Computing
     institution: Indian Institute of Technology, Kanpur
-    year: '07 - '12
+    year: 2007-12
 
 
 # Social/Academic Networking
