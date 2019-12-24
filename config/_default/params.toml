@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sameer.mehta@utdallas.edu"
-phone = "+1 (214) 680-7413"
+phone = ""
 address = "JSOM 3.226, UT Dallas"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
